@@ -2,27 +2,27 @@
   {
     "id": 0,
     "name": "ahmad",
-    "url": "./img/bmw_7er.jpg"
+    "url": "./img/1.jpg"
   },
   {
     "id": 1,
     "name": "ahmad",
-    "url": "./img/bmw-5.jpg"
+    "url": "./img/2.jpg"
   },
   {
     "id": 2,
     "name": "ahmad",
-    "url": "./img/BMW-M2.jpg"
+    "url": "./img/3.jpg"
   },
 
   {
     "id": 3,
     "name": "ahmad",
-    "url": "./img/bmw-m2.jpg"
+    "url": "./img/4.jpg"
   },
   {
     "id": 4,
     "name": "ahmad",
-    "url": "./img/BMW-X3.jpg"
+    "url": "./img/5.jpg"
   }
 ]
