@@ -1,28 +1,33 @@
 [
   {
     "id": 0,
-    "name": "ahmad",
+    "name": "BMW",
     "url": "./img/1.jpg"
   },
   {
     "id": 1,
-    "name": "ahmad",
+    "name": "BMW",
     "url": "./img/2.jpg"
   },
   {
     "id": 2,
-    "name": "ahmad",
+    "name": "BMW",
     "url": "./img/3.jpg"
   },
 
   {
     "id": 3,
-    "name": "ahmad",
+    "name": "BMW",
     "url": "./img/4.jpg"
   },
   {
     "id": 4,
-    "name": "ahmad",
+    "name": "BMW",
     "url": "./img/5.jpg"
+  },
+  {
+    "id": 5,
+    "name": "BMW",
+    "url": "./img/6.jpg"
   }
 ]
